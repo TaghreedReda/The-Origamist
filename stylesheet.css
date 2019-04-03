@@ -3,6 +3,12 @@
 	flex-wrap: wrap;
 	justify-content: center;
 }
+.title{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
 body{background-image:url(395515.jpg);
 	background-size: cover;
 	margin: 0px;
